@@ -1,4 +1,4 @@
-// SERVO TEST
+// JK TEST SERVO MOTOR
 
 // LIBRARY
 #include <Servo.h> 
