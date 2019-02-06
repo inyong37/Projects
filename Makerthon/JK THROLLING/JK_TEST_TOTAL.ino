@@ -1,12 +1,10 @@
+// JK TEST TOTAL
+
 // LIBRARIES
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 #include <Adafruit_NeoPixel.h>
 #include <Servo.h> 
-
-
-
-
 
 // DEFINE
 #define PIN_TRIG 2
@@ -30,19 +28,14 @@ int start = 0;
 int wolf = 0;
 int moon = 0;
 
-
-
-
-
-
 // SETUP
 void setup()
 {
   lcd.init();
   lcd.backlight();
-  strip.begin(); //네오픽셀을 초기화하기 위해 모든LED를 off시킨다
+  strip.begin();
   strip.show();
-  pinMode(PIN_TOUCH_B, INPUT);             // 디지털 3번핀을 입력모드로 설정
+  pinMode(PIN_TOUCH_B, INPUT);
   pinMode(PIN_TOUCH_S, INPUT);
   Serial.begin(9600);
   pinMode(PIN_B, OUTPUT);
@@ -54,16 +47,9 @@ void setup()
   moonL.attach(PIN_MOON_L);
 }
 
-
-
-
-
-
 // LOOP
 void loop()
 {
-  // unsigned long ms = millis();
-  // unsigned long sec = millis()/1000;
   long duration, distance;
   digitalWrite(PIN_TRIG, LOW);
   delayMicroseconds(2);
@@ -81,13 +67,13 @@ void loop()
   lcd.print(battery);
   lcd.setCursor(13,0);
   lcd.print("0%");
-  int B = digitalRead(PIN_TOUCH_B);          // 변수 a를 선언하여 디지털 3번핀의 값을 입력
+  int B = digitalRead(PIN_TOUCH_B);
   int S = digitalRead(PIN_TOUCH_S);
-  Serial.print(B);                   // 변수 a를 시리얼 모니터에 출력
+  Serial.print(B);
   Serial.print(S);
   Serial.println(battery);
 
- // BATTERY SET
+// BATTERY SET
   if(B == 0)
   {
     if(battery == 9)
@@ -122,7 +108,7 @@ void loop()
   if(start == 1)
   {
     // CHARGNING TIME
-    unsigned long sec = millis()/1000; // 1초 단위면 millisTime = millis()/1000;
+    unsigned long sec = millis()/1000;
     int sec_01 = sec%10;
     int sec_10 = (sec/10)%10;
     int min_01 = (sec/100)%10;
@@ -187,11 +173,6 @@ void loop()
   
   delay(1000);  
 }
-
-
-
-
-
 
 // FUNCTIONS
 void colorWipe(uint32_t c, uint8_t wait)
