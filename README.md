@@ -28,4 +28,24 @@ Where: Korea University
 
 Team: 경영룡이와 친구들
 
-Item: Alibi Maker with Morphing
+Item: Alibi Maker with Morphing Web Service
+
+## Gokathon #2
+
+When: 2017 Summer
+
+Where: Korea University
+
+Team: 겐트위한
+
+Item: Note Recording and Note Taking Web Service
+
+## Gokathon #1
+
+When: 2016 Summer
+
+Where: Korea University
+
+Team: Frontier
+
+Item: Friend Meeting in Virtual Reality with Oculus Rift
