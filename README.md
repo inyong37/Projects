@@ -20,7 +20,7 @@ Team: JK Throlling
 
 Item: Mood light with wireless phone charger; concept of werewolf
 
-## Gokathon
+## Gokathon #3
 
 When : 2018 Summer
 
