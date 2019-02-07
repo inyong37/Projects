@@ -60,3 +60,22 @@ Team: BlueWay
 
 Item: Fire Rescue Drone
 
+## Creative Challenge Program
+
+When: May, 2017 ~ Jan, 2018
+
+Where: Korea University
+
+Team: LaRing
+
+Item: Smart Buoyant Band
+
+## Creative Challenge Program
+
+Whem: May, 2016 ~ Jan, 2017
+
+Where: Korea University
+
+Team: Blind Date
+
+Item: Cognitive system for the visually impaired
