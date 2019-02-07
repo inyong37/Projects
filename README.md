@@ -10,6 +10,16 @@ Team: In Hello
 
 Item: Object Recognition by Deep Learning with Drone Camera for Caring Vulnerable Hierarchy
 
+## Hackerthon
+
+When: Winter 2017
+
+Where: Korea University & SKT
+
+Team: 6조
+
+Item: Valet Parking Matching App
+
 ## Makerthon
 
 When: 2019-01-31-Thu ~ 2019-02-01-Fri
