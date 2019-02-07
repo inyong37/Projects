@@ -50,7 +50,7 @@ Team: Frontier
 
 Item: Friend Meeting in Virtual Reality with Oculus Rift
 
-## Creative Challenge Program
+## Creative Challenge Program #3
 
 When: May, 2018 ~ Jan, 2019
 
@@ -60,7 +60,7 @@ Team: BlueWay
 
 Item: Fire Rescue Drone
 
-## Creative Challenge Program
+## Creative Challenge Program #2
 
 When: May, 2017 ~ Jan, 2018
 
@@ -70,12 +70,52 @@ Team: LaRing
 
 Item: Smart Buoyant Band
 
-## Creative Challenge Program
+## Creative Challenge Program #1
 
-Whem: May, 2016 ~ Jan, 2017
+When: May, 2016 ~ Jan, 2017
 
 Where: Korea University
 
 Team: Blind Date
 
 Item: Cognitive system for the visually impaired
+
+## Capstone Design #2
+
+When: Summer, 2017
+
+Where: Korea University
+
+Team: EllCare
+
+Item: Elder Care System
+
+## Capstone Design #1
+
+When: Summer, 2016
+
+Where: Korea University
+
+Team: Soloura
+
+Item: Smart Solar Case
+
+## Senier Project #2
+
+When: Autumn, 2017
+
+Where: Department of Electrical Engineering, Korea University
+
+Team: RedPi
+
+Item: Smart Mirror with IoT, and Voice Recognition
+
+## Senier Project #1
+
+When: Spring, 2017
+
+Where: Department of Electrical Engineering, Korea University
+
+Team: Cython
+
+Item: Surveillance system using autonomous vehicle
