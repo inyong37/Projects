@@ -100,6 +100,16 @@ Team: Soloura
 
 Item: Smart Solar Case
 
+## Senier Project #3
+
+When: Autumn, 2018
+
+Where: Department of Electrical Engineering, Korea University
+
+Team: aBLE
+
+Item: Drone Confirming Initial Fire
+
 ## Senier Project #2
 
 When: Autumn, 2017
