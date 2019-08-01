@@ -12,7 +12,7 @@ Item: A drones system that takes care of people with social weakness hierarchy t
 
 (Object Recognition by Deep Learning with Drone Camera for Caring Vulnerable Hierarchy People)
 
-Detail: DJI 드론 Tello으로 촬영한 영상을 Intel NUC(ubuntu16)에서 mobilenet v2(C++, Caffe)을 이용하여 객체 검출을 하고 검출된 객체에 따른 알고리즘을 실행한다. 알고리즘은 1. 독거노인의 경우 몇번의 주기 동안 위치 변동이 없을 경우 관리자에게 알림 전송, 2. 알코올 중독자의 술로 학습된 병 등이 다수 발견될 경우 관리자에게 알림 전송, 3. 치매 노인의 경우 재실로 등록된 상태에서 집에 없을 경우 관리자에게 알림, 4. 시각장애인의 경우 피호자는 집에 있지만 안내견이 보이지 않을 경우 탐색, 관리자에게 알림.
+Detail: DJI 드론 Tello으로 촬영한 영상을 Intel NUC(ubuntu16)에서 mobilenet v2(C++, Caffe)을 이용하여 객체 검출을 하고 검출된 객체에 따른 알고리즘을 실행한다. 알고리즘은 1. 독거노인의 경우 몇번의 주기 동안 위치 변동이 없을 경우 관리자에게 알림 전송, 2. 알코올 중독자의 술로 학습된 병 등이 다수 발견될 경우 관리자에게 알림 전송, 3. 치매 노인의 경우 재실로 등록된 상태에서 집에 없을 경우 관리자에게 알림 전송, 4. 시각장애인의 경우 피호자는 집에 있지만 안내견이 보이지 않을 경우 탐색하고 관리자에게 알림을 전송한다.
 
 ## Hackerthon
 
