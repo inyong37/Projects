@@ -26,6 +26,8 @@ Team: 6조
 
 Item: Valet Parking Matching App
 
+Detail: Design Thinking 강의를 듣고 이를 적용하여 문제를 해결하는 해커톤이다. 해커톤을 개최한 주변 지역인 동대문 DDP 주변의 문제를 직접 설문조사를 통해 조사한 뒤, 이 중 주차구간이 적다는 문제를 선정하고 이를 해결하기 위해 공학적인 방법으로 접근했다. 솔루션으로 자동차 주인과 발렛파킹 기사을 매칭하는 앱 서비스를 데모로 개발했다.
+
 ### Makerspace Hackerthon
 
 When: 2019-01-31-Thu ~ 2019-02-01-Fri
@@ -35,6 +37,8 @@ Where: Koera University Makerspace & N15
 Team: JK Throlling
 
 Item: Mood light with wireless phone charger; concept of werewolf
+
+
 
 ### Gokathon #3 (Korea University Hackerthon)
 
