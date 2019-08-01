@@ -2,6 +2,8 @@
 
 ## Hackerthon
 
+### Hackerthon
+
 When: 2019-01-21-Mon ~ 2019-01-23-Wed
 
 Where: Korea University & Intel
