@@ -166,6 +166,10 @@ Team: RedPi
 
 Item: Smart Mirror with IoT, and Voice Recognition
 
+설명: 라즈베리파이 보드에 구글 어시스턴트 API를 이용하여 음성 인식을 이용한 문 열고 닫기, 불 키고 끄기 등의 홈 IoT 제어와 날씨, 뉴스 API를 이용해서 거울에 필요한 정보를 보여주는 스마트 미러를 제작했다.
+
+수상: 2017학년도 2학기 종합설계 하드웨어 분반 우수상
+
 ### Senier Project #1
 
 When: Spring, 2017
@@ -175,6 +179,10 @@ Where: Department of Electrical Engineering, Korea University
 Team: Cython
 
 Item: Surveillance system using autonomous vehicle
+
+설명:
+
+수상: 2017학년도 1학기 종합설계 하드웨어 분반 최우수상, 2017학년도 캡스톤 디자인 우수사례 공모전 우수상
 
 ## Internship
 
