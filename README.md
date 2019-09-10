@@ -30,18 +30,6 @@ Detail: DJI 드론 Tello으로 촬영한 영상을 Intel NUC(ubuntu16)에서 mob
 
 Github: https://github.com/inyong37/Projects/tree/master/Hackerthon/InHello
 
-### Design Thinking Hackerthon
-
-When: 2017-01-06-Fri ~ 2017-01-07-Sat
-
-Host: Korea University & SKT
-
-Team: 6조
-
-Item: Valet Parking Matching App
-
-Detail: Design Thinking 강의를 듣고 이를 적용하여 문제를 해결하는 해커톤이다. 해커톤을 개최한 주변 지역인 동대문 DDP 주변의 문제를 직접 설문조사를 통해 조사한 뒤, 이 중 주차구간이 적다는 문제를 선정하고 이를 해결하기 위해 공학적인 방법으로 접근했다. 솔루션으로 자동차 주인과 발렛파킹 기사을 매칭하는 앱 서비스를 데모로 개발했다.
-
 ### Gokathon #3 (Korea University Hackerthon)
 
 When : 2018 Summer
@@ -65,6 +53,18 @@ Team: 겐트위한
 Item: Note Recording and Note Taking Web Service
 
 Github: https://github.com/gokathonhands
+
+### Design Thinking Hackerthon
+
+When: 2017-01-06-Fri ~ 2017-01-07-Sat
+
+Host: Korea University & SKT
+
+Team: 6조
+
+Item: Valet Parking Matching App
+
+Detail: Design Thinking 강의를 듣고 이를 적용하여 문제를 해결하는 해커톤이다. 해커톤을 개최한 주변 지역인 동대문 DDP 주변의 문제를 직접 설문조사를 통해 조사한 뒤, 이 중 주차구간이 적다는 문제를 선정하고 이를 해결하기 위해 공학적인 방법으로 접근했다. 솔루션으로 자동차 주인과 발렛파킹 기사을 매칭하는 앱 서비스를 데모로 개발했다.
 
 ### Gokathon #1 (Korea University Hackerthon)
 
