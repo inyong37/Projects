@@ -6,7 +6,7 @@
 
 When: 2019-01-31-Thu ~ 2019-02-01-Fri
 
-Where: Koera University Makerspace & N15
+Host: Koera University Makerspace & N15
 
 Team: JK Throlling
 
@@ -20,7 +20,7 @@ Youtube: https://youtu.be/8VXXmvlFgn4
 
 When: 2019-01-21-Mon ~ 2019-01-23-Wed
 
-Where: Korea University & Intel
+Host: Korea University & Intel
 
 Team: In Hello
 
@@ -34,7 +34,7 @@ Github: https://github.com/inyong37/Projects/tree/master/Hackerthon/InHello
 
 When: 2017-01-06-Fri ~ 2017-01-07-Sat
 
-Where: Korea University & SKT
+Host: Korea University & SKT
 
 Team: 6조
 
@@ -46,7 +46,7 @@ Detail: Design Thinking 강의를 듣고 이를 적용하여 문제를 해결하
 
 When : 2018 Summer
 
-Where: Korea University
+Host: Korea University
 
 Team: 경영룡이와 친구들
 
@@ -58,7 +58,7 @@ Github: https://github.com/Gokathon2018-Alibama
 
 When: 2017 Summer
 
-Where: Korea University
+Host: Korea University
 
 Team: 겐트위한
 
@@ -70,7 +70,7 @@ Github: https://github.com/gokathonhands
 
 When: 2016 Summer
 
-Where: Korea University
+Host: Korea University
 
 Team: Frontier
 
@@ -84,7 +84,7 @@ Github: https://github.com/GgyuTeam
 
 When: May, 2018 ~ Jan, 2019
 
-Where: Korea University
+Host: Korea University
 
 Team: BlueWay
 
@@ -98,7 +98,7 @@ Youtube: https://youtu.be/bn5Yju_MtWY
 
 When: May, 2017 ~ Jan, 2018
 
-Where: Korea University
+Host: Korea University
 
 Team: LaRing
 
@@ -112,7 +112,7 @@ Youtube: https://youtu.be/ABJpSaNQgzs
 
 When: May, 2016 ~ Jan, 2017
 
-Where: Korea University
+Host: Korea University
 
 Team: Blind Date
 
@@ -124,7 +124,7 @@ Youtube: https://youtu.be/5DVMH21AAbg
 
 When: Summer, 2017
 
-Where: Korea University
+Host: Korea University
 
 Team: EllCare
 
@@ -136,7 +136,7 @@ Github: https://github.com/inyong37/EllCare
 
 When: Summer, 2016
 
-Where: Korea University
+Host: Korea University
 
 Team: Soloura
 
@@ -150,7 +150,7 @@ Github: https://github.com/inyong37/Soloura
 
 When: Autumn, 2018
 
-Where: Department of Electrical Engineering, Korea University
+Host: Department of Electrical Engineering, Korea University
 
 Team: aBLE
 
@@ -162,7 +162,7 @@ Github: https://github.com/BlueWay-KU
 
 When: Autumn, 2017
 
-Where: Department of Electrical Engineering, Korea University
+Host: Department of Electrical Engineering, Korea University
 
 Team: RedPi
 
@@ -176,7 +176,7 @@ Item: Smart Mirror with IoT, and Voice Recognition
 
 When: Spring, 2017
 
-Where: Department of Electrical Engineering, Korea University
+Host: Department of Electrical Engineering, Korea University
 
 Team: Cython
 
@@ -192,6 +192,6 @@ Item: Surveillance system using autonomous vehicle
 
 When: Spring, 2017
 
-Where: Korea University
+Host: Korea University
 
 Item: Return home guide drone
