@@ -172,7 +172,7 @@ Item: Smart Mirror with IoT, and Voice Recognition
 
 수상: 2017학년도 2학기 종합설계 하드웨어 분반 우수상
 
-### Senier Project #1
+### Senier Project #1 - 2017학년도 1학기 종합설계1 하드웨어 부분 (졸업작품 전시회)
 
 When: Spring, 2017
 
@@ -184,7 +184,7 @@ Item: Surveillance system using autonomous vehicle
 
 설명:
 
-수상: 2017학년도 1학기 종합설계 하드웨어 분반 최우수상, 2017학년도 캡스톤 디자인 우수사례 공모전 우수상
+수상: 2017학년도 1학기 종합설계1 하드웨어 부분 최우수상, 2017학년도 캡스톤 디자인 우수사례 공모전 우수상
 
 ## Internship
 
