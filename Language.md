@@ -9,11 +9,11 @@ Lecture 데이터구조및알고리즘 - Fall 2016
 Lecture 입문설계 (Arduino) - Spring 2015
 Project LaRing (Arduino) - Summer 2017 ~ Winter 2017
 Project EllCare (Arduino) - Summer 2017
-Project InHello (OpenVINO, Caffe) - Winter 2018
+Project InHello (Drone, Deep Learning, Computer Vision, OpenVINO, Caffe) - Winter 2018
 ```
 ## C#
 ```
-Project Mongsil Mongsil (Oculus, Unity) - Summer 2016
+Project Mongsil Mongsil (Oculus Rift, Unity 3D) - Summer 2016
 ```
 ## JAVA
 ```
@@ -21,12 +21,12 @@ Lecture 전자공학실험2 (Android, Eclipse) - Fall 2015
 ```
 ## Python
 ```
-Lecture 종합설계1 (Autonomous Driving, Computer Vision)- Spring 2017
-Lecture 종합설계2 (Speech Recogntion, Internet of Things, 3D Printing) - Fall 2017
-Project BlindDate (Sensor Fusion, Computer Vision) - Summer 2016 ~ Winter 2016
+Lecture 종합설계1 (Autonomous Driving, Computer Vision, OpenCV)- Spring 2017
+Lecture 종합설계2 (Speech Recogntion, Internet of Things, 3D Printing, Google Assistant) - Fall 2017
+Project BlindDate (Sensor Fusion, Computer Vision, OpenCV) - Summer 2016 ~ Winter 2016
 Project Alibama (OpenCV, AWS) - Summer 2018
-Project BlueWay (Drone, Deep Learning, Computer Vision) - Summer 2018 ~ Winter 2019 
-Project Thesis (Drone, Deep Learning, Computer Vision) - Fall 2019
+Project BlueWay (Drone, Deep Learning, Computer Vision, TensorFlow) - Summer 2018 ~ Winter 2019 
+Project Thesis (Drone, Deep Learning, Computer Vision, PyTorch, TensorFlow) - Fall 2019
 ```
 ## M
 ```
@@ -45,7 +45,7 @@ Lecture 응용논리회로설계 - Spring 2015
 ```
 ## R
 ```
-Seminar - Summer 2017
+Seminar 빅데이터 마이닝  - Summer 2017
 ```
 ## Circuit
 ```
