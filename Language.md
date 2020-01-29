@@ -9,6 +9,7 @@ Lecture 데이터구조및알고리즘 - Fall 2016
 Lecture 입문설계 (Arduino) - Spring 2015
 Project LaRing (Arduino) - Summer 2017 ~ Winter 2017
 Project EllCare (Arduino) - Summer 2017
+Project InHello (OpenVINO, Caffe) - Winter 2018
 ```
 ## C#
 ```
@@ -31,7 +32,7 @@ Project Thesis (Drone, Deep Learning, Computer Vision) - Fall 2019
 ```
 Lecture 로봇공학 - Fall 2015
 Lecture 신호와시스템 - Spring 2017
-Lecture 제어공학 - Fall 2017 
+Lecture 제어공학 - Fall 2017
 ```
 ## Verilog
 ```
@@ -41,6 +42,10 @@ Lecture 디지털시스템실험 - Fall 2016
 ## VHDL
 ```
 Lecture 응용논리회로설계 - Spring 2015
+```
+## R
+```
+Seminar - Summer 2017
 ```
 ## Circuit
 ```
