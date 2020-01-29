@@ -4,13 +4,14 @@
 Lecture 컴퓨터프로그래밍 - Spring 2012
 Lecture 데이터구조및알고리즘 - Fall 2016
 ```
-## C++
+## C++ 
 ```
 Lecture 입문설계 (Arduino) - Spring 2015
 Project LaRing (Arduino) - Summer 2017 ~ Winter 2017
 Project EllCare (Arduino) - Summer 2017
 Project InHello (Drone, Deep Learning, Computer Vision, OpenVINO, Caffe) - Winter 2018
 ```
+[Homepage](https://isocpp.org/)
 ## C#
 ```
 Project Mongsil Mongsil (Oculus Rift, Unity 3D) - Summer 2016
@@ -28,6 +29,7 @@ Project Alibama (OpenCV, AWS) - Summer 2018
 Project BlueWay (Drone, Deep Learning, Computer Vision, TensorFlow) - Summer 2018 ~ Winter 2019 
 Project Thesis (Drone, Deep Learning, Computer Vision, PyTorch, TensorFlow) - Fall 2019
 ```
+[Homepage](https://www.python.org/)
 ## M
 ```
 Lecture 로봇공학 - Fall 2015
@@ -47,6 +49,7 @@ Lecture 응용논리회로설계 - Spring 2015
 ```
 Seminar 빅데이터 마이닝  - Summer 2017
 ```
+[Homepage](https://www.r-project.org/) [Download](http://cran.seoul.go.kr/)
 ## Circuit
 ```
 Lecture 기초전자공학실험1 - Spring 2013
