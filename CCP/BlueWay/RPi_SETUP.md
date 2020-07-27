@@ -1,5 +1,5 @@
-# 2017 Raspbian은 RPi 3B+에서 작동 안됨.
-# 2018 Raspbian은 RPi 3B에서 작동 됨.
+### 2017 Raspbian은 RPi 3B+에서 작동 안됨.
+### 2018 Raspbian은 RPi 3B에서 작동 됨.
 
 # SWAP
 $ df
