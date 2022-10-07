@@ -1,7 +1,7 @@
 # Projects
 
-## Brief (Selected Project Experience)
-- Master's Student, Korea University
+## Selected Project Experience
+- Graduate Researcher, Korea University
   - Indoor Autonomous Flight Algorithm using Computer Vision Deep Learning Model based on Optical Character Recognition and Depth Prediction
   - Drone for taking care of Vulnerable People using Computer Vision”
     - Award: Consolation Prize from Object Recognition AI Hackathon Contest with Intel
@@ -12,7 +12,7 @@
   - Protein Pattern Analysis using Deep Learning
   - Comparison and Analysis of Autonomous Flying Drone Algorithms based on Deep Reinforcement Learning
   - Drone Control using Voice
-- Undergraduate Studnet, Korea University
+- **Undergraduate Studnet, Korea University**
   - Speech Recognition System using Smart Mirror
     - Award: Excellence Award in Hardware Part in the School of Electrical Engineering Graduation Project of Korea University
   - Elder Care System
@@ -29,18 +29,6 @@
 ---
 
 ## Non brief
-- **TmaxA&C, Gyeonggi-do, Korea** - Technical Research Personnel (Researcher on Military Service), OS Research Center
-  - Design IoT System for Specific Purpos
-  - Research & Development of No/Low Code Application Builder based on Web Environment
-    - Global Custom Data Setup and Usage Framework Design
-    - Design of Component's Metadata Data Structure and Component Creation Framework
-    - Component Property Update Framework Design
-  - Research & Development of Document Editing Program based on Linux and Windows System
-    - Process-in-Process Document Editing Framework and API Design
-    - Introduction of Git Hooks and Unit Testing to Improve Code Quality and Project Efficiency
-    - Analysis of Program Build Process and Refactoring Circular-dependency
-    - Program Loading Speed Profiling and Optimization
-    - Optimize installation Process and Resource Management
 
 ## Hackathon
 
