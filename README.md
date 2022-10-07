@@ -1,6 +1,48 @@
 # Projects
 
-## Hackerthon
+## Brief (Selected Project Experience)
+- Master's Student, Korea University
+  - Indoor Autonomous Flight Algorithm using Computer Vision Deep Learning Model based on Optical Character Recognition and Depth Prediction
+  - Drone for taking care of Vulnerable People using Computer Vision”
+    - Award: Consolation Prize from Object Recognition AI Hackathon Contest with Intel
+  - Alibi Maker
+    - Award: Grand Award and AWS Special Award from Software Hackathon of Korea University
+  - Fire-checking Drone using Computer Vision
+  - Fire Evacuation Guidance System using Autonomous Flying Drone
+  - Protein Pattern Analysis using Deep Learning
+  - Comparison and Analysis of Autonomous Flying Drone Algorithms based on Deep Reinforcement Learning
+  - Drone Control using Voice
+- Undergraduate Studnet, Korea University
+  - Speech Recognition System using Smart Mirror
+    - Award: Excellence Award in Hardware Part in the School of Electrical Engineering Graduation Project of Korea University
+  - Elder Care System
+    - Award: Consolation Prize from Capstone Design Content of Korea University
+  - Smart Buoyant Band
+  - Video Surveillance Security System using Unmanned Rover
+    - Award: Grand Award in Hardware part in the School of Electrical Engineering Graduation Project of Korea University, and Excellence Award from 2017 Capstone Design Best Case Contest of Korea University
+  - Meet Friends in Virtual Reality Service
+  - Smart Solar Case
+    - Award: Silver Award from Capstone Design Content of Korea University, and Bronze Award from International Capstone Design Fair (Korea, China, Japan)
+  - Cognitive System for the Visually Impaired
+    - Award: Excellence Award from Creative Challenger Program of Korea University
+  
+---
+
+## Non brief
+- **TmaxA&C, Gyeonggi-do, Korea** - Technical Research Personnel (Researcher on Military Service), OS Research Center
+  - Design IoT System for Specific Purpos
+  - Research & Development of No/Low Code Application Builder based on Web Environment
+    - Global Custom Data Setup and Usage Framework Design
+    - Design of Component's Metadata Data Structure and Component Creation Framework
+    - Component Property Update Framework Design
+  - Research & Development of Document Editing Program based on Linux and Windows System
+    - Process-in-Process Document Editing Framework and API Design
+    - Introduction of Git Hooks and Unit Testing to Improve Code Quality and Project Efficiency
+    - Analysis of Program Build Process and Refactoring Circular-dependency
+    - Program Loading Speed Profiling and Optimization
+    - Optimize installation Process and Resource Management
+
+## Hackathon
 
 ### Makerspace Hackerthon
 
@@ -78,6 +120,8 @@ Item: Friend Meeting in Virtual Reality with Oculus Rift
 
 Github: https://github.com/GgyuTeam
 
+---
+
 ## Competition
 
 ### Creative Challenge Program #3
@@ -144,6 +188,8 @@ Item: Smart Solar Case
 
 Github: https://github.com/inyong37/Soloura
 
+---
+
 ## Senier Project
 
 ### Senier Project #3
@@ -185,6 +231,8 @@ Item: Surveillance system using autonomous vehicle
 설명:
 
 수상: 2017학년도 1학기 종합설계1 하드웨어 부분 최우수상, 2017학년도 캡스톤 디자인 우수사례 공모전 우수상
+
+---
 
 ## Internship
 
