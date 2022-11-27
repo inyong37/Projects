@@ -1,6 +1,6 @@
 # RESEARCH & PROFESSIONAL EXPERIENCE
 
-## **TmaxA&C, Gyeonggi-do, Korea**
+## **TmaxA&C, Gyeonggi-Do, Korea**
 
 (Feb. 2020 - PRESENT)
 
