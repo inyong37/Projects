@@ -1,7 +1,12 @@
 # RESEARCH & PROFESSIONAL EXPERIENCE
 
+## Boeing, Seoul, Republic of Korea
 
-## **TmaxA&C, Gyeonggi-Do, Republic of Korea**
+(Jan. 2024 - PRESENT)
+
+*AI/ML Engineer, Boeing Korea Engineering and Technology Center*
+
+## TmaxA&C, Gyeonggi-Do, Republic of Korea
 
 (Feb. 2020 - Jan. 2024)
 
@@ -29,7 +34,7 @@
   - Program Loading Speed Profiling and Optimization
   - Optimize installation Process and Resource Management
 
-## **Korea University, Seoul, Korea**
+## Korea University, Seoul, Republic of Korea
 
 (Jan. 2018 - Jan. 2020)
 
@@ -44,7 +49,7 @@
   - Comparative Analysis of Enzyme Classification using RNN and CNN Models
 - Research & Development of Reinforcement Learning for Autonomous Driving and Flight
 
-## **Korea University, Seoul, Korea**
+## Korea University, Seoul, Republic of Korea
 
 (Mar. 2017 - Aug. 2017)
 
