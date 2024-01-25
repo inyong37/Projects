@@ -1,16 +1,28 @@
 # RESEARCH & PROFESSIONAL EXPERIENCE
 
-## **TmaxA&C, Gyeonggi-Do, Korea**
 
-(Feb. 2020 - PRESENT)
+## **TmaxA&C, Gyeonggi-Do, Republic of Korea**
 
-*Technical Research Personnel (Researcher on Military Service), OS Research Center*
+(Feb. 2020 - Jan. 2024)
 
-- Research & Development of No/Low Code Application Builder based on Web Environment
+*Technical Research Personnel, Operating System Research Institute, TmaxOS*
+
+- Research and Design of Infrastructure for Multi-Operating System Management and Testing
+  - Design and Configure of High-Availability On-premise Clusters
+  - Introduce Distributed Storage Management System and Backup Solutions
+  - Configure Management of Operating Systems in Cluster Environment and Implement Virtual Machine Environment
+  - Research Package Security Systems and Storage Solutions
+- Research & Design of Internet of Things System Architecture
+  - Design Smart Home Hub and Smart TV Systems
+  - Research Identify Verification and Payment Systems
+
+*Technical Research Personnel, Platform Kernel Research Institute, TmaxOffice*
+
+- Research & Development of Low Code Application Builder (Web Environment)
   -	Global Custom Data Setup and Usage Framework Design
   -	Design of Component's Metadata Data Structure and Component Creation Framework
   - Component Property Update Framework Design
-- Research & Development of Document Editing Program based on Linux and Windows System
+- Research & Development of Document Editing Program (Linux and Windows)
   - Process-in-Process Document Editing Framework and API Design
   - Introduction of Git Hooks and Unit Testing to Improve Code Quality and Project Efficiency
   - Analysis of Program Build Process and Refactoring Circular-dependency
