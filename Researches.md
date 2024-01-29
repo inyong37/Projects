@@ -10,7 +10,7 @@
   - Award 1: Grand Award from Software Hackathon of Korea University
   - Award 2: AWS Special Award from Software Hackathon of Korea University
 - [Fire-checking Drone using Computer Vision](Researches/fire-checking-drone.md)
-- Fire Evacuation Guidance System using Autonomous Flying Drone
+- [Fire Evacuation Guidance System using Autonomous Flying Drone](Researches/fire-evacuation-system.md)
 - Protein Pattern Analysis using Deep Learning
 - [Comparison and Analysis of Autonomous Flying Drone Algorithms based on Deep Reinforcement Learning](Researches/comparing-deep-rl-models-for-autonomous-flight.md)
 - Drone Control using Voice
