@@ -1,4 +1,4 @@
-# :bulb: Certificates
+# :bulb: CERTIFICATES
 
 | 교육일 | 교육명 | 교육기관 |
 |:-----:|:------:|:-------:|
