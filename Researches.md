@@ -8,7 +8,7 @@
 - Alibi Maker
   - Award 1: Grand Award from Software Hackathon of Korea University
   - Award 2: AWS Special Award from Software Hackathon of Korea University
-- [Fire-checking Drone using Computer Vision](Researches/Fire-Checking-Drone.md)
+- [Fire-checking Drone using Computer Vision](Researches/fire-checking-drone.md)
 - Fire Evacuation Guidance System using Autonomous Flying Drone
 - Protein Pattern Analysis using Deep Learning
 - [Comparison and Analysis of Autonomous Flying Drone Algorithms based on Deep Reinforcement Learning](Researches/comparing-deep-rl-models.md)
