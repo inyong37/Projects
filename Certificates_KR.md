@@ -1,4 +1,5 @@
-# :bulb: Training
+# :bulb: Certificates
+
 | 교육일 | 교육명 | 교육기관 |
 |:-----:|:------:|:-------:|
 |2023-08-23|DeepLearning.AI TensorFlow Developer Professional Certificate program|Coursera|
