@@ -1,6 +1,6 @@
 # Awards
 
-**2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consolation Award, Object Recognition AI Hackathon with Intel, Korea University and Intel Korea
+**2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognition Award, Object Recognition AI Hackathon with Intel, Korea University and Intel Korea
     
 **2018**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grand Award, AWS Special Award, Korea University Software Hackathon, Korea University
 
@@ -8,7 +8,7 @@
 
 **2017**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellence Award in Hardware Part in the School of Electrical Engineering Graduation Project, Korea University
 
-**2017**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consolation Award, Capstone Design Contest, Korea University
+**2017**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognition Award, Capstone Design Contest, Korea University
 
 **2017**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grand Award in Hardware Part in the School of Electrical Engineering Graduation Project, Korea University
 
