@@ -1,0 +1,3 @@
+### Drone for taking care of Vulnerable People using Computer Vision
+
+A drone patrols each home and detects objects with a camera to make decisions according to each situation. A notification is sent the the guardian when a bottle of alcohol is detected in the home of an alcoholic, when there is no one at the home an elder person with dementia, or when a person does not move for a certain period of time on a home living alone. The drone consisted of Intel's NUC PC and DJI's Tello in off-board form. Therefore, it is a system where Tello patrols the houses, records, and inferences this data on the NUC PC. Intel NUC and OpenVINO were used, and it was implemented using Caffe and C++. The model was implemented using MobileNet and SSD.
