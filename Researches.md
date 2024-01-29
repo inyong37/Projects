@@ -1,7 +1,7 @@
 # SELECTED PROJECT EXPERIENCE
 
 ### Master's Student, Korea University
-- Indoor Autonomous Flight Algorithm using Computer Vision Deep Learning Model based on Optical Character Recognition and Depth Prediction
+- [Indoor Autonomous Flight Algorithm using Computer Vision Deep Learning Model based on Optical Character Recognition and Depth Prediction](Researches/master-thesis.md)
 - [Drone for taking care of Vulnerable People using Computer Vision](Researches/patrol-drone-for-vulnerable-people.md)
   - Award: Recognition Prize from Object Recognition AI Hackathon Contest with Intel
   - Youtube: https://youtu.be/mrI6iaLh72c
