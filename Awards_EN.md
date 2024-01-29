@@ -1,4 +1,4 @@
-# Awards
+# AWARDS
 
 **2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognition Award, Object Recognition AI Hackathon with Intel, Korea University and Intel Korea
     
