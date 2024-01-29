@@ -1,11 +1,12 @@
 # SELECTED PROJECT EXPERIENCE
 
 ### Master's Student, Korea University
+
 - [Indoor Autonomous Flight Algorithm using Computer Vision Deep Learning Model based on Optical Character Recognition and Depth Prediction](Researches/master-thesis.md)
 - [Drone for taking care of Vulnerable People using Computer Vision](Researches/patrol-drone-for-vulnerable-people.md)
   - Award: Recognition Prize from Object Recognition AI Hackathon Contest with Intel
   - Youtube: https://youtu.be/mrI6iaLh72c
-- Alibi Maker
+- [Alibi Maker](Researches/alibi-maker.md)
   - Award 1: Grand Award from Software Hackathon of Korea University
   - Award 2: AWS Special Award from Software Hackathon of Korea University
 - [Fire-checking Drone using Computer Vision](Researches/fire-checking-drone.md)
@@ -15,6 +16,7 @@
 - Drone Control using Voice
 
 ### Undergraduate Studnet Intern, Korea University
+
 - Speech Recognition System using Smart Mirror
   - Award: Excellence Award in Hardware Part in the School of Electrical Engineering Graduation Project of Korea University
 - Elder Care System
