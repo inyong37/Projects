@@ -28,6 +28,6 @@
 - Smart Solar Case
   - Award 1: Silver Award from Capstone Design Content of Korea University
   - Award 2: Bronze Award from International Capstone Design Fair (Korea, China, Japan)
-- Cognitive System for the Visually Impaired
+- [Cognitive System for the Visually Impaired](Researches/cognitive-system.md)
   - Award: Excellence Award from Creative Challenger Program of Korea University
   - Youtube: https://youtu.be/5DVMH21AAbg
