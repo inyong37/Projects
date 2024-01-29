@@ -1,0 +1,5 @@
+### Fire Evacuation Guidance System using Autonomous Flying Drone
+
+Purpose of the fire evacuation guidance system using an autonomous flying drone is to rescue people for a burning building. The system is composed of 4 parts. First one is a sensor module places at each location. Second one is a smartphone application to request rescue. Third one is a server to collect data form sensors and receive a rescue request, and command a drone to fly to the user with calculated safe route which has no smoke and low temperature. The last part is the drone.
+
+The sensor modules are made with Raspberry Pi, smoke sensor, temperature sensor, and bluetooth module. Sensors are for checking the safety of its location. Bluetooth module is for localizing the drone's location. The drone flies to the user's location with a safety route, plus using its camera to check whether the route is really safe. The algorithm of computer vision uses dehazing method on raw image for preprocessing, and monocular depth prediction method to check obstacle whether the route available for evacuation.
