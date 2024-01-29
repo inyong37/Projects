@@ -20,7 +20,7 @@
 - Elder Care System
   - Award: Recognition Prize from Capstone Design Content of Korea University
 - Smart Buoyant Band
-- [Video Surveillance Security System using Unmanned Rover](Researches/patrol-serveillance-system.md)
+- [Video Surveillance Security System using Unmanned Rover](Researches/patrol-surveillance-system.md)
   - Award 1: Grand Award in Hardware part in the School of Electrical Engineering Graduation Project of Korea University
   - Award 2: Excellence Award from 2017 Capstone Design Best Case Contest of Korea University
 - Meet Friends in Virtual Reality Service
